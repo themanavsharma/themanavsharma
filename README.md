@@ -1,4 +1,14 @@
-## Hi there, I'm Manav 👨‍💻
+# Manav 👨‍💻
+
+### About Me
+- 🎓 Software Engineering student @ Western University
+- 💼 Web Development Intern @ Western USC
+- 📚 Currently learning Cloud Computing and Architecture
+- 💡 Passionate about software development and design
+
+
+<a href="https://www.linkedin.com/in/sharmamanavv/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://devpost.com/sharmamanavv"><img alt="Devpost" src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white" /></a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themanavsharma&layout=compact)
 <!--
