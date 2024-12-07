@@ -4,7 +4,7 @@
 - 🎓 Software Engineering student @ Western University
 - 💼 Web Development Intern @ Western USC
 - 📚 Currently learning Cloud Computing and Architecture
-- 💡 Passionate about software development and design
+- 💡 Passionate about Software Development and Design
 
 
 <a href="https://www.linkedin.com/in/sharmamanavv/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
