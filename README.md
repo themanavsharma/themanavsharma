@@ -9,6 +9,8 @@
 
 <a href="https://www.linkedin.com/in/sharmamanavv/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://devpost.com/sharmamanavv"><img alt="Devpost" src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white" /></a>
+<a href="https://dorahacks.io/hacker/manavsharma"><img alt="DoraHacks" src="https://img.shields.io/badge/DoraHacks-%23FFA500.svg?&style=for-the-badge&logoColor=white" /></a>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themanavsharma&layout=compact)
 <!--
